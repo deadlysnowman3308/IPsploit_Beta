@@ -1,6 +1,6 @@
 # IPsploit_Beta
 
-** (For Windows only)
+### (For Windows only)
 
 ## Just download as zip file
 ## Unzip the Ipsploit_Beta.zip
