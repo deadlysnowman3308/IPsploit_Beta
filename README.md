@@ -1,8 +1,8 @@
 # IPsploit-new
 
 
-## Just download the zip file
-## Unzip the Ipsploit
+## Just download as zip file
+## Unzip the Ipsploit_Beta.zip
 #
 #
 #
