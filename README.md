@@ -9,6 +9,6 @@
 <br>
 <br>
 <br>
-# Run the IPsploit.exe
+# Run the IPsploit-Beta-setup.exe
  
 * !!! ENJOY !!!
